@@ -20,6 +20,7 @@ class AccountScreen extends StatelessWidget {
       appBar: const CustomAppBar(),
       body: SafeArea(
         child: ListView(
+          physics: const BouncingScrollPhysics(),
           children: [
             const AccountInfo(),
             const TransactionsHistoryFilters(),
