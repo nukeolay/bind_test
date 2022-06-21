@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class CustomTheme {
   static const appBarIconSize = 28.0;
   static ThemeData get theme => ThemeData.dark().copyWith(
-        useMaterial3: true,
+        // useMaterial3: true,
         colorScheme: const ColorScheme.dark().copyWith(
           primary: Colors.white,
           onSurfaceVariant: const Color(0xFF141416),
