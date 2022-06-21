@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:bind_test/account_screen/widgets/common_widgets/custom_drop_down_button.dart';
-import 'package:bind_test/core/currencies.dart';
+import 'package:bind_test/data/currencies.dart';
 
 class CurrencyDropDownButton extends StatelessWidget {
   const CurrencyDropDownButton({

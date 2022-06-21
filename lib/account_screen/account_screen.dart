@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
+import 'package:bind_test/data/transactions.dart';
 import 'package:bind_test/account_screen/widgets/transaction_history_filters/transaction_history_filters.dart';
-import 'package:bind_test/core/transactions.dart';
 import 'package:bind_test/account_screen/widgets/custom_app_bar.dart';
 import 'package:bind_test/account_screen/widgets/account_info.dart';
 import 'package:bind_test/account_screen/widgets/transaction_list_view/tiles.dart';

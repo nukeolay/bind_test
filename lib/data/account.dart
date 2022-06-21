@@ -1,5 +1,5 @@
 import 'package:intl/intl.dart';
-import 'package:bind_test/core/currencies.dart';
+import 'package:bind_test/data/currencies.dart';
 
 class Account {
   final Currencies selectedCurrency;

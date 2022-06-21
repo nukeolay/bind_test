@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:bind_test/core/currencies.dart';
-import 'package:bind_test/core/transaction_subjects.dart';
-import 'package:bind_test/core/transactions.dart';
+import 'package:bind_test/data/currencies.dart';
+import 'package:bind_test/data/transaction_subjects.dart';
+import 'package:bind_test/data/transactions.dart';
 import 'package:bind_test/account_screen/widgets/transaction_list_view/transaction_amount.dart';
 import 'package:bind_test/account_screen/widgets/transaction_list_view/transaction_icon.dart';
 import 'package:bind_test/account_screen/widgets/transaction_list_view/transaction_name_and_date.dart';

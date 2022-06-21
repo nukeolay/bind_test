@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:bind_test/core/theme/custom_theme.dart';
+import 'package:bind_test/theme/custom_theme.dart';
 import 'package:bind_test/account_screen/account_screen.dart';
 
 void main() {

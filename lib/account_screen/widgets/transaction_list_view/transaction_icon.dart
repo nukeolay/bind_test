@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:bind_test/core/transactions.dart';
+import 'package:bind_test/data/transactions.dart';
 
 class TransactionIcon extends StatelessWidget {
   final TransactionTypes type;

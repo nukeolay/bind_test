@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:bind_test/data/account.dart';
 import 'package:bind_test/account_screen/widgets/common_widgets/custom_outlined_button.dart';
-import 'package:bind_test/core/account.dart';
 
 class AccountInfo extends StatelessWidget {
   const AccountInfo({Key? key}) : super(key: key);
